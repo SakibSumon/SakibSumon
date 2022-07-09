@@ -1,6 +1,8 @@
 ### Hello, Welcome to my GitHub profile :sweat_drops:
 
- I completed undergrad from Ahsanullah University of Science and Engineering in June'20 and currently working at ### Genesys Softwares.
+> "Our greatest glory is not in never failing, but in rising every time we fail." ― Confucius
+
+ I completed undergrad from Ahsanullah University of Science and Engineering in June'20 and currently working at **Genesys Softwares.** 
 
 <!--
 **SakibSumon/SakibSumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

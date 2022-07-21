@@ -2,7 +2,7 @@
 
 ### Hello, Welcome to my GitHub profile :sweat_drops:
 
-**About Me:** I completed undergrad from Ahsanullah University of Science and Engineering in June'20 <br>
+**About Me:** I completed undergrad from Ahsanullah University of Science and Engineering in June'22 <br>
 and currently working at **Genesys Softwares.** 
 
 ![](https://komarev.com/ghpvc/?username=SakibSumon)
